@@ -13,3 +13,6 @@
 *.gcov
 *.html
 *.d
+
+/zig-out/
+/.zig-cache/
